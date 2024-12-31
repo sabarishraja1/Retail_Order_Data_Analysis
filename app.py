@@ -33,7 +33,7 @@ def query_data(query):
         conn.close()
 
 def main():
-    st.title("Data Analysis App")
+    st.title("Retail Order Data Analysis")
 
     # Categories for the first dropdown
     categories = {
